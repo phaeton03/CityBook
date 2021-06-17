@@ -7,8 +7,4 @@ import java.io.*;
 
 public class CityBook {
     public List<City> cities = new ArrayList<>();
-
-
-
-
 }
